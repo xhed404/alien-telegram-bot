@@ -15,13 +15,7 @@ cd alien-telegram-bot
 pip install -r requirements.txt
 ```
 
-3. Создай `.env` файл на основе `.env.example`:
-```env
-BOT_TOKEN=твой_токен_от_BotFather
-GROQ_API_KEY=твой_ключ_от_groq.com
-```
-
-4. Запусти бота:
+3. Запусти бота:
 ```bash
 python bot.py
 ```
